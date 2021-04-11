@@ -1,2 +1,2 @@
 # my-test-repo
-test repo for testing
+for testing purposes only
